@@ -943,4 +943,4 @@ https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
 https://padmaonline.duckdns.org:8088/JalshaMoviesHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="T Sports HD" group-title="Sports",T Sports HD
-https://padmaonline.duckdns.org:8088/T-SportHD/tracks-v1a1/mono.m3u8
+http://103.89.248.30:8082/T-SPORTS/embed.html?token=6a58e8525c027f0204462efea6cab67818ff9825-c8b6bda29a80e2ab4b5e8eb9a5105ea7-1771000938-1770990138&remote=no_check_ip.m3u8
