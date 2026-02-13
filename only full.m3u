@@ -930,17 +930,17 @@ http://10.20.30.30:8989/StarSportSL_1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live-7
 http://10.20.30.30:8989/WILLOWHD/tracks-v1a1/mono.ts.m3u8
 
-
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Zee Bangla HD" group-title="Bangla",Zee Bangla HD
-https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
+#EXTINF:-1:-1 tvg-id="" tvg-name="ZEE Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="✯IND✯ BANGLA",ZEE Bangla HD
+https://allinonereborn.xyz/filextv/live157.php?id=520265
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Colors Bangla Cinema FHD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTDQMj2k0CsE7vVVQTclstM0r1GWTgLu4qicF0US8JyCv4bemQM-o3ME0_hm1PKxx4U.png" group-title="✯IND✯ BANGLA",BAN || Colors Bangla Cinema FHD
+https://allinonereborn.xyz/filextv/live157.php?id=522609
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Khushboo TV Bangla HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxdIIBuRGfJO8XgLvhrOM9h0OP_44a5uIy2gI_p6icM30.jpg" group-title="✯IND✯ BANGLA",BAN || Khushboo TV Bangla HD
+https://allinonereborn.xyz/filextv/live157.php?id=522613
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || STAR Jalsha 4K HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBSFZ_DVwq7FQRQgusxKkmeSyH6-Rkgd0H-E1S4kLTZ04.png" group-title="✯IND✯ BANGLA",BAN || STAR Jalsha 4K HD
+https://allinonereborn.xyz/filextv/live157.php?id=522638
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Colors Bangla 4K HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBVpzK-Hw3FJ8KXnzyUKdfn9og3nqLqD34KkIy6_6tl11.png" group-title="✯IND✯ BANGLA",BAN || Colors Bangla 4K HD
+https://allinonereborn.xyz/filextv/live157.php?id=522653
 
-#EXTINF:-1 tvg-name="Colors Bangla HD" group-title="Bangla",Colors Bangla HD
-https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Jalsha Movies HD" group-title="Bangla Movies",Jalsha Movies HD
-https://padmaonline.duckdns.org:8088/JalshaMoviesHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="T Sports HD" group-title="Sports",T Sports HD
-http://103.89.248.30:8082/T-SPORTS/embed.html?token=6a58e8525c027f0204462efea6cab67818ff9825-c8b6bda29a80e2ab4b5e8eb9a5105ea7-1771000938-1770990138&remote=no_check_ip.m3u8
