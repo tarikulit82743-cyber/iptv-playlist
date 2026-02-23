@@ -11,13 +11,13 @@
 
 #EXTINF:-1 group-title="Indian Bangla server 1" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 #https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
-https://cricxtv.site/cdn/14.m3u8
+http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
 #EXTINF:-1 group-title="Indian Bangla server 1" group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-https://cricxtv.site/cdn/12.m3u8
+http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8
 #EXTINF:-1 group-title="Indian Bangla" group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
-https://cricxtv.site/cdn/18.m3u8
+http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
 #EXTINF:-1:-1 tvg-id="" tvg-name="ZEE Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="✯IND✯ BANGLA",ZEE Bangla HD
 https://allinonereborn.online/filextv/live157.php?id=520265
 #EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Colors Bangla Cinema FHD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTDQMj2k0CsE7vVVQTclstM0r1GWTgLu4qicF0US8JyCv4bemQM-o3ME0_hm1PKxx4U.png" group-title="✯IND✯ BANGLA",BAN || Colors Bangla Cinema FHD
@@ -33,7 +33,7 @@ https://allinonereborn.online/filextv/live157.php?id=522653
 #http://38.96.178.201/live/RuposhiBangla/index.m3u8
 #https://cdn-4.pishow.tv/live/1039/1039_2.m3u8
 #https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-https://cricxtv.site/cdn/84.m3u8
+http://172.16.29.2:8090/hls/Enter10Bangla.m3u8
 
 
 #BANGLA
@@ -863,6 +863,9 @@ https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a4
 #EXTINF:-1 group-title="FM-Radio" tvg-logo="https://spicefmbd.com/logospice.png",Radio City
 https://n0b.radiojar.com/gmwyu8xdrxquv?rj-ttl=5&rj-tok=AAABmefVT0cAEC8yJftxyPNsng
 
+
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS",T SPORTS
+http://172.16.29.2:8090/hls/tsportshd.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live-1
 http://10.20.30.30:8989/PTV/tracks-v1a1/mono.ts.m3u8
