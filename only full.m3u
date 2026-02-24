@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: Tarif Hasan
 # 🔗 Telegram: https://t.me/Usernametarif
-# 🕒 Last Updated: 2026-02-21 9:36pm (BD Time)
+# 🕒 Last Updated: 2026-02-24 12:14pm (BD Time)
 # 📺 Channels Count:
 
 
@@ -85,7 +85,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-vid
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
+http://116.204.149.16/maasranga/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="BANGLA", GAZI TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
@@ -881,3 +882,194 @@ http://10.20.30.30:8989/SonyTen5/tracks-v1a1/mono.ts.m3u8
 http://10.20.30.30:8989/StarSportSL_1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live-7
 http://10.20.30.30:8989/WILLOWHD/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+backup
+
+
+
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAngla TV BD HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBfvsWYUgwGfRXYrDFEtiEJUcRfZGM_LZ0odXxg_Lqun2.png" group-title="✯IND✯ BANGLA",BAngla TV BD HD
+https://allinonereborn.online/filextv/live157.php?id=519968
+#EXTINF:-1:-1 tvg-id="nickjr.no" tvg-name="NICK (bangla) HD" tvg-logo="https://png.pngtree.com/png-vector/20220916/ourmid/pngtree-nickelodeon-logo-image-png-image_6177061.png" group-title="✯IND✯ BANGLA",NICK (bangla) HD
+https://allinonereborn.online/filextv/live157.php?id=519972
+#EXTINF:-1:-1 tvg-id="" tvg-name="SOnic Bengali HD" tvg-logo="https://rolextv.one:443/images/HjUNyHDk1GXCeTnp_TSKC-53wSDON4kVxalhwvqUW4sp0WigiXW2IDtz31mRp9pu.jpg" group-title="✯IND✯ BANGLA",SOnic Bengali HD
+https://allinonereborn.online/filextv/live157.php?id=519973
+#EXTINF:-1:-1 tvg-id="" tvg-name="1-bd: ABP Ananda HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abp-ananda-in.png" group-title="✯IND✯ BANGLA",1-bd: ABP Ananda HD
+https://allinonereborn.online/filextv/live157.php?id=520226
+#EXTINF:-1:-1 tvg-id="discoverychannel.it" tvg-name="DIscovery HD" tvg-logo="" group-title="✯IND✯ BANGLA",DIscovery HD
+https://allinonereborn.online/filextv/live157.php?id=520232
+#EXTINF:-1:-1 tvg-id="" tvg-name="MUsic Bangla HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla.jpg" group-title="✯IND✯ BANGLA",MUsic Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=520239
+#EXTINF:-1:-1 tvg-id="" tvg-name="MOhona TV HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x71442" group-title="✯IND✯ BANGLA",MOhona TV HD
+https://allinonereborn.online/filextv/live157.php?id=520240
+#EXTINF:-1:-1 tvg-id="" tvg-name="BOishaki HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x71442" group-title="✯IND✯ BANGLA",BOishaki HD
+https://allinonereborn.online/filextv/live157.php?id=520241
+#EXTINF:-1:-1 tvg-id="" tvg-name="PEace TV Bangla HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/logo_50.png" group-title="✯IND✯ BANGLA",PEace TV Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=520242
+#EXTINF:-1:-1 tvg-id="" tvg-name="DEpto TV HD" tvg-logo="https://jcwsw2vt33.gpcdn.net/uploads/images/2022/07/25/logos_1384ea456744d5914ba331fa72df78c8_goplay_deepto_logo_final_white.svg" group-title="✯IND✯ BANGLA",DEpto TV HD
+https://allinonereborn.online/filextv/live157.php?id=520243
+#EXTINF:-1:-1 tvg-id="panda.pt" tvg-name="ANanda TV HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x71442" group-title="✯IND✯ BANGLA",ANanda TV HD
+https://allinonereborn.online/filextv/live157.php?id=520244
+#EXTINF:-1:-1 tvg-id="metv.us" tvg-name="ME TV HD" tvg-logo="https://www.metvbd.com/media/common/logo.png" group-title="✯IND✯ BANGLA",ME TV HD
+https://allinonereborn.online/filextv/live157.php?id=520245
+#EXTINF:-1:-1 tvg-id="CHANNEL21.de" tvg-name="CHannel A1 HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/IMG_0459-768x768.png" group-title="✯IND✯ BANGLA",CHannel A1 HD
+https://allinonereborn.online/filextv/live157.php?id=520246
+#EXTINF:-1:-1 tvg-id="" tvg-name="EKkator TV HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/ekattors-150x150.jpg?x71442" group-title="✯IND✯ BANGLA",EKkator TV HD
+https://allinonereborn.online/filextv/live157.php?id=520247
+#EXTINF:-1:-1 tvg-id="" tvg-name="SOmoy TV HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x71442" group-title="✯IND✯ BANGLA",SOmoy TV HD
+https://allinonereborn.online/filextv/live157.php?id=520248
+#EXTINF:-1:-1 tvg-id="" tvg-name="RTV HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x71442" group-title="✯IND✯ BANGLA",RTV HD
+https://allinonereborn.online/filextv/live157.php?id=520249
+#EXTINF:-1:-1 tvg-id="atv.at" tvg-name="SA TV HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x71442" group-title="✯IND✯ BANGLA",SA TV HD
+https://allinonereborn.online/filextv/live157.php?id=520250
+#EXTINF:-1:-1 tvg-id="" tvg-name="EKhon TV HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ekhontv.jpg" group-title="✯IND✯ BANGLA",EKhon TV HD
+https://allinonereborn.online/filextv/live157.php?id=520251
+#EXTINF:-1:-1 tvg-id="mangas.fr" tvg-name="BAngla PLUS HD" tvg-logo="https://i.postimg.cc/P5XXYFxd/20250529-111735.png" group-title="✯IND✯ BANGLA",BAngla PLUS HD
+https://allinonereborn.online/filextv/live157.php?id=520252
+#EXTINF:-1:-1 tvg-id="" tvg-name="News18 Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="✯IND✯ BANGLA",News18 Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=520264
+#EXTINF:-1:-1 tvg-id="" tvg-name="ZEE Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="✯IND✯ BANGLA",ZEE Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=520265
+#EXTINF:-1:-1 tvg-id="" tvg-name="ZEE Bangla Cinema HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBXCW-o7EVphL0jKE3Od_d4o_h1FaWSJdL02IA5TPgSqeRkU5iC0B4CALHGkj7cGklw.png" group-title="✯IND✯ BANGLA",ZEE Bangla Cinema HD
+https://allinonereborn.online/filextv/live157.php?id=520266
+#EXTINF:-1:-1 tvg-id="" tvg-name="COlors Bangla Cinema HD" tvg-logo="https://e7.pngegg.com/pngimages/60/192/png-clipart-colors-bangla-bengali-television-show-television-channel-nepalis-purple-television.png" group-title="✯IND✯ BANGLA",COlors Bangla Cinema HD
+https://allinonereborn.online/filextv/live157.php?id=520267
+#EXTINF:-1:-1 tvg-id="" tvg-name="REpublic Bangla HD" tvg-logo="https://rolextv.one:443/images/6DJcH9So8dma-2vFaUXP2Tn0WGIBcM9yzNABkxPEtjATu-tTiLChA5jYVrj99Tzbl1bnKyGidIes2-tAfDdrUDoimMqRbseSf0iHomBsKTM.png" group-title="✯IND✯ BANGLA",REpublic Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=520406
+#EXTINF:-1:-1 tvg-id="een.be" tvg-name="DEEN TV Bengali HD" tvg-logo="" group-title="✯IND✯ BANGLA",DEEN TV Bengali HD
+https://allinonereborn.online/filextv/live157.php?id=520407
+#EXTINF:-1:-1 tvg-id="" tvg-name="RPlus NEWS HD" tvg-logo="" group-title="✯IND✯ BANGLA",RPlus NEWS HD
+https://allinonereborn.online/filextv/live157.php?id=520408
+#EXTINF:-1:-1 tvg-id="" tvg-name="MON TV Bengali HD" tvg-logo="" group-title="✯IND✯ BANGLA",MON TV Bengali HD
+https://allinonereborn.online/filextv/live157.php?id=520409
+#EXTINF:-1:-1 tvg-id="" tvg-name="EKhushey TV HD" tvg-logo="" group-title="✯IND✯ BANGLA",EKhushey TV HD
+https://allinonereborn.online/filextv/live157.php?id=520410
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || NK TV Bangla FHD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTDQMj2k0CsE7vVVQTclstM0-VB6hbeTtnOCpd9abrImO8KfsDWw-iKj_bMi6fbLOZw.png" group-title="✯IND✯ BANGLA",BAN || NK TV Bangla FHD
+https://allinonereborn.online/filextv/live157.php?id=522605
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Boogle Bangla FHD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTDQMj2k0CsE7vVVQTclstM0gw2BFERtUsFW5vaf6N6sympWTkobzvC43hKxRcXK1bQ.png" group-title="✯IND✯ BANGLA",BAN || Boogle Bangla FHD
+https://allinonereborn.online/filextv/live157.php?id=522606
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || AMAR Bangala HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTDQMj2k0CsE7vVVQTclstM0m8jFDBrL9iWShsc1g0tzykhncOfIiULP1GEE6oKtwBE.png" group-title="✯IND✯ BANGLA",BAN || AMAR Bangala HD
+https://allinonereborn.online/filextv/live157.php?id=522607
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Bangla Bhakti HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTDQMj2k0CsE7vVVQTclstM0FoQTE4P5gOr3pxQ0UEvEl8oXyfIC4i5KlByp5LeEBOY.png" group-title="✯IND✯ BANGLA",BAN || Bangla Bhakti HD
+https://allinonereborn.online/filextv/live157.php?id=522608
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Colors Bangla Cinema FHD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTDQMj2k0CsE7vVVQTclstM0r1GWTgLu4qicF0US8JyCv4bemQM-o3ME0_hm1PKxx4U.png" group-title="✯IND✯ BANGLA",BAN || Colors Bangla Cinema FHD
+https://allinonereborn.online/filextv/live157.php?id=522609
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Akaash AATH FHD" tvg-logo="https://mym2e.fun/images/m_G31rJ8Rwa3peZSlhirzYbt7ORm3p4N7aHZPLZPtV1qNizIAabNvwLLtd6uglbDB54JHjhnWxnLLm0T3p8DFg.png" group-title="✯IND✯ BANGLA",BAN || Akaash AATH FHD
+https://allinonereborn.online/filextv/live157.php?id=522610
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Global Televiaion HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7Ux8KpuuUlHULgg9elosUqZ2L9bpzmON2EsVEto0UldxfIZH_9ZmLE63OBIirAXFhjB.png" group-title="✯IND✯ BANGLA",BAN || Global Televiaion HD
+https://allinonereborn.online/filextv/live157.php?id=522611
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || DD Bangla HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxaRdS0ImAfHwpTtbwxEGI-4V5fvqRGmXYdlYLSqB947s.png" group-title="✯IND✯ BANGLA",BAN || DD Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=522612
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Khushboo TV Bangla HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxdIIBuRGfJO8XgLvhrOM9h0OP_44a5uIy2gI_p6icM30.jpg" group-title="✯IND✯ BANGLA",BAN || Khushboo TV Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=522613
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || GAAN Bangla HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7Uxz2iuUFMFRcf3dBvZdZBMEn-ti3qJvcUBo8IcNSljBgc.jpg" group-title="✯IND✯ BANGLA",BAN || GAAN Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=522614
+#EXTINF:-1:-1 tvg-id="biznes24hd.pl" tvg-name="BAN || Times 24 FHD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxMOeNDWJWCDvMd4wuZy-A_OCp27Qc6IYXbFY-UtAjlT8.jpg" group-title="✯IND✯ BANGLA",BAN || Times 24 FHD
+https://allinonereborn.online/filextv/live157.php?id=522615
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || ITV Movie Bangla HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxEUSfMiNmqHCzj2CvsGAlLg.png" group-title="✯IND✯ BANGLA",BAN || ITV Movie Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=522616
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || GAZI TV FHD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxI5TC9hf0rsv368OmlhdpCg.jpg" group-title="✯IND✯ BANGLA",BAN || GAZI TV FHD
+https://allinonereborn.online/filextv/live157.php?id=522617
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Duronto TV HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7Uxls5-qU8UI2b3Qe7i-mNQNueSW8Dyd7VlEvP_TJ6UTt8.png" group-title="✯IND✯ BANGLA",BAN || Duronto TV HD
+https://allinonereborn.online/filextv/live157.php?id=522618
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || DBC NEWS HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7Uxa_Llw9W4w35V2S9H5lRn9JoZfujXOKFN_JsNemGcpSc.png" group-title="✯IND✯ BANGLA",BAN || DBC NEWS HD
+https://allinonereborn.online/filextv/live157.php?id=522619
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || NRB Bangla FHD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxojtHzlez4pKcga8lf7mhow.png" group-title="✯IND✯ BANGLA",BAN || NRB Bangla FHD
+https://allinonereborn.online/filextv/live157.php?id=522620
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Songsad TV FHD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7Uxh_Sqd5cospBmC2fu4OT4RA.jpg" group-title="✯IND✯ BANGLA",BAN || Songsad TV FHD
+https://allinonereborn.online/filextv/live157.php?id=522621
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Rupashi Bangla HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxRsUqoOzy9OnMhRZL4XjJhQ.jpg" group-title="✯IND✯ BANGLA",BAN || Rupashi Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=522622
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Bijoy TV HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxrGO9Wlh97tL2eKhOeJ2sjg.jpg" group-title="✯IND✯ BANGLA",BAN || Bijoy TV HD
+https://allinonereborn.online/filextv/live157.php?id=522623
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Dhoom Music HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxRWrQ1-oGBmxLEY3uAaZQkw.jpg" group-title="✯IND✯ BANGLA",BAN || Dhoom Music HD
+https://allinonereborn.online/filextv/live157.php?id=522624
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Calcutta NEWS 4K HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxNslOyBHqknTg_tZ72UVK8IApfOsFu1PfTJPguThKK2k.png" group-title="✯IND✯ BANGLA",BAN || Calcutta NEWS 4K HD
+https://allinonereborn.online/filextv/live157.php?id=522625
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || SUN Bangla 4K HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxgzKjRkgtAZa-ihijcsIOiHBdBbtC2KZJKYwIruUvnXk.png" group-title="✯IND✯ BANGLA",BAN || SUN Bangla 4K HD
+https://allinonereborn.online/filextv/live157.php?id=522626
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || R Bangala 4K HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTDQMj2k0CsE7vVVQTclstM0E_P4MJGTNbHAn0ZUGU0ktlffa6PL8ivhJ5CH-goZ2z0.png" group-title="✯IND✯ BANGLA",BAN || R Bangala 4K HD
+https://allinonereborn.online/filextv/live157.php?id=522627
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || ZEE 24 Ghanta HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxB0DsbCxpIYAH9M7cA_vuzXcY0lThP-5KQTfKlMywGwo.jpg" group-title="✯IND✯ BANGLA",BAN || ZEE 24 Ghanta HD
+https://allinonereborn.online/filextv/live157.php?id=522628
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Kolkata TV HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7Uxll9EbdzyIDMmRmolg6Y95_L8G-eZxoaGywFiKorvXVo.png" group-title="✯IND✯ BANGLA",BAN || Kolkata TV HD
+https://allinonereborn.online/filextv/live157.php?id=522629
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || TV9 Bangla HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxflqRRfy6N75hVV4Neny455-5sz7lQWnfzhrcbUvEZo8.jpg" group-title="✯IND✯ BANGLA",BAN || TV9 Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=522630
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || NEWS TIME HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxZNRmj82vYLubqX6yUQN7_gJC-bZZ07P3JDC_otFb-cw.png" group-title="✯IND✯ BANGLA",BAN || NEWS TIME HD
+https://allinonereborn.online/filextv/live157.php?id=522631
+#EXTINF:-1:-1 tvg-id="" tvg-name="IND || ABP Ananda HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxeGfEC7nZ5B-SWQ8-9SCRDZay8QpvyItBPMFTZxecw1I.png" group-title="✯IND✯ BANGLA",IND || ABP Ananda HD
+https://allinonereborn.online/filextv/live157.php?id=522632
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || R PLUS NEWS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4FTLDOIpmlf-4H4TWQM_zv7XVFi9hexpKVA&s" group-title="✯IND✯ BANGLA",BAN || R PLUS NEWS HD
+https://allinonereborn.online/filextv/live157.php?id=522633
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Boisakhi HD" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxF_cJFx2ALymAIWjJshb-KdXQm9QZ5xMJpmjdTPWvgR4.png" group-title="✯IND✯ BANGLA",BAN || Boisakhi HD
+https://allinonereborn.online/filextv/live157.php?id=522634
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Sangeet Bangla HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBcAx3tcrMtxe4B5UeXIhCosp-5kWAcyxY0KW-psA4p1WKg57B7oKP6CueJE4uAXrAA.png" group-title="✯IND✯ BANGLA",BAN || Sangeet Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=522635
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || ZEE Bangla Cinema HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBXCW-o7EVphL0jKE3Od_d4o_h1FaWSJdL02IA5TPgSqeRkU5iC0B4CALHGkj7cGklw.png" group-title="✯IND✯ BANGLA",BAN || ZEE Bangla Cinema HD
+https://allinonereborn.online/filextv/live157.php?id=522636
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || ZEE Bangla HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBXCW-o7EVphL0jKE3Od_d4oo1MM3brk4I3muSIe83xiz.png" group-title="✯IND✯ BANGLA",BAN || ZEE Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=522637
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || STAR Jalsha 4K HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBSFZ_DVwq7FQRQgusxKkmeSyH6-Rkgd0H-E1S4kLTZ04.png" group-title="✯IND✯ BANGLA",BAN || STAR Jalsha 4K HD
+https://allinonereborn.online/filextv/live157.php?id=522638
+#EXTINF:-1:-1 tvg-id="" tvg-name="BEN || SONY AATH 4K HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBSWswZlbwAHODMJ3B2KhONoN8XODExguceaIPg1PMpZT.png" group-title="✯IND✯ BANGLA",BEN || SONY AATH 4K HD
+https://allinonereborn.online/filextv/live157.php?id=522639
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || NTV Bangla HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBaBunUd4EjqPhTNchQBnFSC-Km4tkOgDzI7qPbfHCDse.png" group-title="✯IND✯ BANGLA",BAN || NTV Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=522640
+#EXTINF:-1:-1 tvg-id="rainews.it" tvg-name="BAN || NEWS 24 HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBanvSzWi3xQ9mbatQuLVxjAL5zPl8irJgObCXvrA7sbt.png" group-title="✯IND✯ BANGLA",BAN || NEWS 24 HD
+https://allinonereborn.online/filextv/live157.php?id=522641
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || NEWS 18 Bangla 4K HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBanvSzWi3xQ9mbatQuLVxjB5g8GcbyCxdZ_wuzhprv-G.png" group-title="✯IND✯ BANGLA",BAN || NEWS 18 Bangla 4K HD
+https://allinonereborn.online/filextv/live157.php?id=522642
+#EXTINF:-1:-1 tvg-id="mtvgermany.de" tvg-name="BAN || MY TV HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBeRMvupz3EL1JBWMa2bJKOe3IbWA-mKk5LgKZKz-K_F7.png" group-title="✯IND✯ BANGLA",BAN || MY TV HD
+https://allinonereborn.online/filextv/live157.php?id=522643
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Maasaranga HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBSkhL7q2CTbbXsq-7d-ghpreycjnTKxP3S85_4NZKvOe.png" group-title="✯IND✯ BANGLA",BAN || Maasaranga HD
+https://allinonereborn.online/filextv/live157.php?id=522644
+#EXTINF:-1:-1 tvg-id="mutv.uk" tvg-name="BAN || Jamuna TV HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBcassO-_hmlMKii_Xp5xc7RVhiBOuPeZH_rwsp3kX-j3.png" group-title="✯IND✯ BANGLA",BAN || Jamuna TV HD
+https://allinonereborn.online/filextv/live157.php?id=522645
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Jalsa Movies 4K HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBcassO-_hmlMKii_Xp5xc7Sn24v-QKS0IcBawvxkn2xO.png" group-title="✯IND✯ BANGLA",BAN || Jalsa Movies 4K HD
+https://allinonereborn.online/filextv/live157.php?id=522646
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Independent TV HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBS6_-psTq9BYk9JlUA9k_P20K6rWZW4TOXTcKAG5Fp20.png" group-title="✯IND✯ BANGLA",BAN || Independent TV HD
+https://allinonereborn.online/filextv/live157.php?id=522647
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Ekushey TV HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBaoXvESYnGRj_FdAhYnD76R3A_kWtR1-99BXV1Q208-kpKCr7UZXBBhWVOU41i9j6w.png" group-title="✯IND✯ BANGLA",BAN || Ekushey TV HD
+https://allinonereborn.online/filextv/live157.php?id=522648
+#EXTINF:-1:-1 tvg-id="" tvg-name="BEN || Ekattor TV HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBaoXvESYnGRj_FdAhYnD76TMSldCuAGxGOuvKg4Hy0saYqh5_sv2AofbD81ZrGH8vg.png" group-title="✯IND✯ BANGLA",BEN || Ekattor TV HD
+https://allinonereborn.online/filextv/live157.php?id=522649
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Deshe Bideshe TV HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBdjWwQaOBjENvscYXOvLJx6SlRfcL73bRObdF9wZt-6SVxMC2WeSqRQTXJyRZVxoPg.png" group-title="✯IND✯ BANGLA",BAN || Deshe Bideshe TV HD
+https://allinonereborn.online/filextv/live157.php?id=522650
+#EXTINF:-1:-1 tvg-id="tvs.pl" tvg-name="BAN || DESH TV HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBdjWwQaOBjENvscYXOvLJx4KkfKPHqoN0XfS_1mceyLY.png" group-title="✯IND✯ BANGLA",BAN || DESH TV HD
+https://allinonereborn.online/filextv/live157.php?id=522651
+#EXTINF:-1:-1 tvg-id="etno.ro" tvg-name="BAN || Deepto TV HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBeo-R5iRxBpdDW0yMpnxLD4Tf1YzRFFM3uEnbzaBxiFG.jpg" group-title="✯IND✯ BANGLA",BAN || Deepto TV HD
+https://allinonereborn.online/filextv/live157.php?id=522652
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Colors Bangla 4K HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBVpzK-Hw3FJ8KXnzyUKdfn9og3nqLqD34KkIy6_6tl11.png" group-title="✯IND✯ BANGLA",BAN || Colors Bangla 4K HD
+https://allinonereborn.online/filextv/live157.php?id=522653
+#EXTINF:-1:-1 tvg-id="channel5.uk" tvg-name="BAN || Channel S HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBaHunNKgAJ2A5k6mq3tXA4kqjAic4U-pzAqirpqLUflO.png" group-title="✯IND✯ BANGLA",BAN || Channel S HD
+https://allinonereborn.online/filextv/live157.php?id=522654
+#EXTINF:-1:-1 tvg-id="channel5.uk" tvg-name="BAN || Channel I HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBaHunNKgAJ2A5k6mq3tXA4kVVzz2tqq0qO_t5nCbignY.png" group-title="✯IND✯ BANGLA",BAN || Channel I HD
+https://allinonereborn.online/filextv/live157.php?id=522655
+#EXTINF:-1:-1 tvg-id="CHANNEL21.de" tvg-name="BAN || Channel 24 HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBbz5qPqX4roezfNBcxasLMhuxwvLU-Je3m0BaFacUZGb.png" group-title="✯IND✯ BANGLA",BAN || Channel 24 HD
+https://allinonereborn.online/filextv/live157.php?id=522656
+#EXTINF:-1:-1 tvg-id="channel5.uk" tvg-name="BAN || Channel 9 HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBaHunNKgAJ2A5k6mq3tXA4mfCISrrLh6nx0_SG7HBpzV.png" group-title="✯IND✯ BANGLA",BAN || Channel 9 HD
+https://allinonereborn.online/filextv/live157.php?id=522657
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Bangla Vision HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBaoXvESYnGRj_FdAhYnD76SmB0WG26jlj7lmMw32EpbPd53SXvmmgi_BvaPy56hQ9Q.png" group-title="✯IND✯ BANGLA",BAN || Bangla Vision HD
+https://allinonereborn.online/filextv/live157.php?id=522658
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Bangla TV HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBfvsWYUgwGfRXYrDFEtiEJUcRfZGM_LZ0odXxg_Lqun2.png" group-title="✯IND✯ BANGLA",BAN || Bangla TV HD
+https://allinonereborn.online/filextv/live157.php?id=522659
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || ATN NEWS HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBUrG71sNPALbAv9m_3NrMn4uspYzfMnINge4FxgkBLml.png" group-title="✯IND✯ BANGLA",BAN || ATN NEWS HD
+https://allinonereborn.online/filextv/live157.php?id=522660
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || ATN Bangla HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBUrG71sNPALbAv9m_3NrMn6Xgv4qkRkQ4jd6wgvVbp5C.png" group-title="✯IND✯ BANGLA",BAN || ATN Bangla HD
+https://allinonereborn.online/filextv/live157.php?id=522661
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Asian TV HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBVXbIvGQOisItKFWJPl5X0DKqiVz1HSfUXVL8TsQurHn.png" group-title="✯IND✯ BANGLA",BAN || Asian TV HD
+https://allinonereborn.online/filextv/live157.php?id=522662
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || Aakash AATH HD" tvg-logo="https://mym2e.fun/images/HjwEu7iTOqkLhxl1ITLIBQ1DhtEs7BBUT4p0txdxPCvXxMsNFWQPuQvafIe1uhmk.png" group-title="✯IND✯ BANGLA",BAN || Aakash AATH HD
+https://allinonereborn.online/filextv/live157.php?id=522663
+#EXTINF:-1:-1 tvg-id="" tvg-name="BAN || ZEE Biskope HD" tvg-logo="https://mym2e.fun/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optgolrj-1akB1PQ43FASyMttvseUP5FdBJpvS1XDpWksFKg9ttE-InEQRCnUWFy9Z1E.png" group-title="✯IND✯ BANGLA",BAN || ZEE Biskope HD
+https://allinonereborn.online/filextv/live157.php?id=522664
+#EXTINF:-1:-1 tvg-id="" tvg-name="STAR Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="✯IND✯ BANGLA",STAR Jalsha HD
+https://allinonereborn.online/filextv/live157.php?id=522665
+#EXTINF:-1:-1 tvg-id="discoverychannel.it" tvg-name="DIscovery HD" tvg-logo="https://rolextv.one:443/images/HjUNyHDk1GXCeTnp_TSKC96PpzVj1qhlUYMHKvCrXZ8iGl0N_UmDYbKdUA53oPE-.jpg" group-title="✯IND✯ BANGLA",DIscovery HD
+https://allinonereborn.online/filextv/live157.php?id=522666
+#EXTINF:-1:-1 tvg-id="foxlife.bg" tvg-name="STAR LIFE HD (bengali)" tvg-logo="https://rolextv.one:443/images/Y_iLp5zM1z0Hv5o0voAY43gZWms8T5YIsuMWOBrHoUMfUYDV28inspqdKpZZGtHALcxfU9v1q9NtSQRd0nJa0w.png" group-title="✯IND✯ BANGLA",STAR LIFE HD (bengali)
+https://allinonereborn.online/filextv/live157.php?id=522667
