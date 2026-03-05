@@ -4,7 +4,7 @@
     { "source": "/colorsbangla", "destination": "http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8", "permanent": false },
     { "source": "/starjalsha", "destination": "http://172.16.29.2:8090/hls/StarJalshaHD.m3u8", "permanent": false },
     { "source": "/enter10", "destination": "http://172.16.29.2:8090/hls/Enter10Bangla.m3u8", "permanent": false },
-    { "source": "/btv", "destination": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8", "permanent": false },
+    { "source": "/btv", "destination": "https://owrcovcrpy.gpcdn.net/bk-tv/1709/output/index.m3u8", "permanent": false },
     { "source": "/somoy", "destination": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8", "permanent": false },
     { "source": "/ekattor", "destination": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8", "permanent": false },
     { "source": "/news24", "destination": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8", "permanent": false },
