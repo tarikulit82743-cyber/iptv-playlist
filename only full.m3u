@@ -134,18 +134,11 @@ https://iptv-playlist-bay.vercel.app/
 #EXTINF:-1 tvg-logo=""group-title="BANGLA",Jankhar tv
 
 #EXTINF:-37 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA",Movie Bangla TV
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/moviebanglatv
 
 #EXTINF:-1 tvg-logo=""group-title="BANGLA",Deshi tv
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/deshi
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BANGLA",Amar Bangla
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BANGLA",Amar Digital
-
-#EXTINF:-1 group-title="BANGLA",Sananda tv
-
-#EXTINF:-1 group-title="BANGLA",Kushbo tv
 
 
 
@@ -160,7 +153,7 @@ English
 
 
 #EXTINF:-58 tvg-logo="https://images.seeklogo.com/logo-png/23/2/bbc-news-logo-png_seeklogo-239212.png" group-title="English News",BBC News
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/bbc
 
 
 
@@ -173,14 +166,14 @@ Islamic
 
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj", Saudi Quran
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/saudiquran
 
 
 #EXTINF:-47 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Madina live
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/madina
 
 #EXTINF:-47 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Peace tv Bangla
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/peacetv
 
 
 
@@ -191,71 +184,71 @@ SPORTS
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="SPORTS",T SPORTS
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/tsportshd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="SPORTS",T SPORTS
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/tsports
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-40
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-41
 
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports Cricket
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-42
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-43
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD-2
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-44
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",TNS Sports-1
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-45
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",TNS Sports-2
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-46
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",TNS Sports-3
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-47
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-48
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Sports
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-49
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png", RTA SPORTS
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-50
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-51
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-52
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-53
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Extra
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-54
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",DD Sports
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-55
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Cowboy tv
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-56
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",MTR Sports-1
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-57
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Premium Sports
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-58
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Premium Sports-2
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-59
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Hard Knocks
-https://iptv-playlist-bay.vercel.app/
+https://iptv-playlist-bay.vercel.app/ch-60
 
