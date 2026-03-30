@@ -1,0 +1,477 @@
+#EXTM3U
+
+# 🖥️ Developed by: Tarif Hasan
+# 🔗 Email:tarikulit82743@gmail.com
+# 🕒 Last Updated: 2026-03-30 02:44pm (BD Time)
+# 📺 Channels Count:107
+
+
+                INDIAN BANGLA
+
+
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/14.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla
+http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/hvRgj26W/20250529-105408.png",Star Jalsa HD
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/18.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha
+https://tvsen1.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/HLdjn6zR/20250602_220804.png",Colar Bangla HD
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/12.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA" group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
+#https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+http://172.16.29.2:8090/hls/ColorsBanglaHD.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/HLdjn6zR/20250602_220804.png",Enter 10 Bangla HD
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/84.m3u8
+
+#EXTINF:-4 tvg-logo="https://i.postimg.cc/50rsyVks/enter10-bangla.jpg" group-title=" indian BANGLA",ENTER 10 BANGLA
+#https://cdn-4.pishow.tv/live/1039/1039_2.m3u8
+#https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+http://172.16.29.2:8090/hls/Enter10Bangla.m3u8
+
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/ZqgJkbLq/20250529-111438.png",Sony art
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/44.m3u8
+
+
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/wM44Y5g2/20250711_062827.png",Sun Bangla
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/17.m3u8
+
+
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/13pfykGD/20250602_220936.png",Color Bangla Cinema
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/47.m3u8
+
+
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/Zq0JDBpg/20250529_110358.png",Zee Bangla Cinema
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/43.m3u8
+
+
+#EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.postimg.cc/G3gmTZRs/20260204_142159.png", Jalsa movies
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/19.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/7/70/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="INDIAN BANA",JALSA MOVIES
+http://103.229.254.25:7001/play/a0dt/index.m3u8
+
+
+                   BANGLA
+
+
+#EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png" group-title="BANGLA",BTV NEWS
+http://103.229.254.25:7001/play/a065/index.m3u8
+
+#EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-id="News24BD" tvg-name="News 24" tvg-logo="https://i.postimg.cc/bNJny8Qw/news-24.png" group-title="Bangla News",News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+#EXTINF:-1 tvg-id="DBCNewsBD" tvg-name="DBC News" tvg-logo="https://i.postimg.cc/cJGD5HdQ/dbc.jpg" group-title="Bangla News",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekhon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLA",Ekon tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+#EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="BANGLA",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-29 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="BANGLA",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
+http://103.229.254.25:7001/play/a068/index.m3u8
+
+#EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA",Ekushey TV
+#https://ekusheyserver.com/etvlivesn.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-17 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="BANGLA",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/330px-Logo_of_Deepto_TV.svg.png" group-title="BANGLA",Deepto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg",Maasranga Tv
+http://103.229.254.25:7001/play/a05q/index.m3u8
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="BANGLA", GAZI TV
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+
+#EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+
+#EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
+http://103.229.254.25:7001/play/a05z/index.m3u8
+
+#EXTINF:-33 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA",Bangla TV
+http://103.229.254.25:7001/play/a06c/index.m3u8
+
+#EXTINF:-34 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" group-title="BANGLA",Mohona Tv
+http://103.229.254.25:7001/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BANGLA",Bijoy tv
+http://103.229.254.25:7001/play/a066/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BANGLA",Nexus TV HD
+http://103.229.254.25:7001/play/a05m/index.m3u8
+
+#EXTINF:-35 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="BANGLA",Asian TV
+http://103.229.254.25:7001/play/a063/index.m3u8
+
+#EXTINF:-37 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA",Movie Bangla TV
+#https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="BANGLA",Deshi tv
+http://208.86.19.13:81/514.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://starbanglatv.net/wp-content/uploads/2024/12/1000035055-e1733680941941.png" group-title="BANGLA",Star Bangla
+http://103.229.254.25:7001/play/a0eo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/46/1/global-tv-logo-png_seeklogo-464345.png" group-title="BANGLA",Global Tv
+http://103.229.254.25:7001/play/a05o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Channel_S_Official_LOGO.png" group-title="BANGLA",Channel S
+http://103.229.254.25:7001/play/a060/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/40/1/anondo-tv-logo-png_seeklogo-407012.png" group-title="BANGLA",Anondo tv
+http://103.229.254.25:7001/play/a05v/index.m3u8
+
+
+                  English
+
+
+#EXTINF:-58 tvg-logo="https://images.seeklogo.com/logo-png/23/2/bbc-news-logo-png_seeklogo-239212.png" group-title="English News",BBC News
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+
+
+                  Islamic
+
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/vTYq396x/20250529_071345.png",peace tv Bangla
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/86.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/y6TnWQ19/20240823_024901.png",Madani
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/83.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj", Saudi Quran
+#https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8
+#http://tv.cloudcdn.me/live.ts?channelId=374&uid=8164&deviceMac=00:1A:79:17:D4:A1
+#https://app.ncare.live/streams/makkahtv.stream/playlist.m3u8
+#https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#http://103.179.182.117:6768/hls/80/80.m3u8
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+
+#EXTINF:-47 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Madina live
+#https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
+#http://tv.cloudcdn.me/live.ts?channelId=223&uid=8164&deviceMac=00:1A:79:17:D4:A1
+#http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+
+#EXTINF:-47 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Peace tv Bangla
+#http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
+#http://tv.cloudcdn.me/live.ts?channelId=237&uid=8164&deviceMac=00:1A:79:17:D4:A1
+#http://xtv.ooo:8080/213112/213112/11
+#https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
+
+
+                    KIDS 
+
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/s2WM2BPR/20251127_095726.png",Duronto kids
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/68.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/5y5VX5t9/20250707_053227.png",Nick
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
+https://cricxtv.site/cdn/46.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/sD6BNScb/20240823_021243.png",Nick jr
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/51.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/wBbj6c9g/20250529_115914.png",Sony Yay
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/93.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/pTDD6P46/20251002_231853.png",Sonic
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/45.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/1tkRFmgd/20250529_115531.png",Carton network
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/8.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/W3FbtF4r/20250529_115709.png",Pogo
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
+https://cricxtv.site/cdn/48.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/63ddmBgS/20251002_231925.png",Hungama 1
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/49.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/63ddmBgS/20251002_231925.png",Hungama 2
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/75.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/63ddmBgS/20251002_231925.png",Carton
+http://151.80.18.177:86/TF1_HD/index.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/63ddmBgS/20251002_231925.png",zoomoo-carton
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/63ddmBgS/20251002_231925.png",golpo Carton
+http://103.175.73.12:8080/live/198/198_0.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/63ddmBgS/20251002_231925.png",Carton
+http://103.175.73.12:8080/live/21/21_0.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/63ddmBgS/20251002_231925.png",Khusbo Bangla
+http://103.175.73.12:8080/live/375/375_0.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/63ddmBgS/20251002_231925.png",Carton
+http://163.61.227.29:8000/play/a03w/index.m3u8
+
+
+               Discovery
+
+
+#EXTINF:-1 tvg-id="ch1" tvg-name="Channel 1" group-title="Discovery",Animal planet HD
+http://103.161.153.165:8000/play/a056/index.m3u8
+
+#EXTINF:-1 tvg-id="ch5" tvg-name="Channel 5" group-title="Discovery",Discovery English
+http://103.161.153.165:8000/play/dischd/index.m3u8
+
+
+
+
+
+
+
+                  SPORTS                      
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707_141739.png",Tsoprts
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/1.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/8zQ0DYBH/20250720_201346.png",Nagorik
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/54.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/ZqbZdnHq/20251002_225834.png",A sports 
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/88.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/W3QSrL7T/20260213_084216.png",Ptv sports
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/92.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/N0sYHFDj/20251002_230032.png",Star sports 1
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/2.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/yNvbVTHy/20250702_032050.png",Star sports 2
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/3.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/K89SfFWN/20251208_221926.png",Euro sports 
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/40.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/50ykjF9d/20250702_032238.png",Star sports select 1
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/28.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/DzvFX06y/20251002_225947.png",Star sports select 2
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/16.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/cH2Cc7zX/20250529_122631.png",Sony sports 1
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/74.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/x12k7R1Z/20250529_122855.png",Sony sports 2
+#EXTVLCOPT:http-referrer=https://cricxtv.site/
+#EXTVLCOPT:http-origin=https://cricxtv.site
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cricxtv.site/cdn/29.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/kMLRN93q/20250529_123147.png",Sony sports 5
+https://cricxtv.site/cdn/101.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="SPORTS",T SPORTS
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="SPORTS",T SPORTS
+http://172.16.29.2:8090/hls/tsportshd.m3u8
+
+#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
+https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/tracks-v1a1/mono.ts.m3u8?e=1769689463&token=cfdb9ecedeef53518b3e20bfc3ba8357&u=78be6644-0a65-48ec-81a4-089ac65a2619
+
+#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
+https://starsportshindiii.pages.dev/360p.m3u8
+
+#EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Sports Cricket
+https://edge2.roarzone.info:8444/roarzone/toffee/ten_cricket/tracks-v1a1/mono.m3u8?token=7878a9d541eddf337a66006c007951a5be9952e6-9c077e0f717d3cbcff109e84df85af2e-1769688133-1769684533
+
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
+https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
+
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD-2
+http://filex.tv:8080/live/Multicity/1234/52109.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",TNS Sports-1
+https://7pal.short.gy/tntspts1
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",TNS Sports-2
+https://7pal.short.gy/tntspts2
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png",TNS Sports-3
+https://7pal.short.gy/tntspts3
+
+#EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
+#http://51.89.148.37:8080/catena-9-15390503-streamer-_fox_sports_505_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#https://7pal.short.gy/fox501au
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+
+#EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Sports
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png", RTA SPORTS
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
+http://135.125.109.73:9000/beinsport1_.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
+http://135.125.109.73:9000/beinsport2_.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
+http://135.125.109.73:9000/beinsport3_.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Extra
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Cowboy tv
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",MTR Sports-1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Premium Sports
+https://7pal.short.gy/prsport1
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Premium Sports-2
+https://7pal.short.gy/prsport2
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Sony Sports 5
+http://103.161.153.165:8000/play/snt5/index.m3u8
